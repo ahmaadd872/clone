@@ -1,0 +1,239 @@
+body
+{
+    font-family: "Playfair Display";
+    font-size: 1rem;
+    line-height: 2.5rem;
+}
+
+.top-bar {
+    background-color: black;
+    color: #fff;
+    font-size: 300;
+    padding: 0.5% 0 0.25% 0;
+}
+
+.top-welcome {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.navbar {
+    padding: 1.5% 19%;
+    margin-top: 0%;
+}
+
+.navbar-brand {
+    padding-right: 22%;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.nav-item {
+    padding: 1% 2%;
+}
+
+.btn-outline-dark {
+    border-radius: 20px;
+    margin-left: 20%;
+}
+
+.btn-outline-dark:hover {
+    background-color: #a18a58;
+}
+
+.welcome {
+
+    background-color: #dfdbcd;
+    padding: 8% 20%;
+    background: url(img/16.jpg.webp);
+}
+
+.welcome h1 {
+    font-size: 400%;
+    font-weight: 600;
+
+}
+
+.welcome p {
+    padding: 2% 10% 2% 0%;
+    line-height: 2;
+    font-size: large;
+}
+
+.welcome .btn-outline-dark {
+    margin: 0;
+    margin-top: 2%;
+    border-radius: 2em;
+
+}
+
+#aboutus {
+    margin: 4% 20% 5% 20%;
+}
+
+.aboutus-img {
+    width: 100%;
+}
+
+.column1 {
+    padding: 10% 0% 15% 1%;
+    width: 25%;
+
+}
+
+.column3 {
+    padding: 7% 5% 2% 5%;
+
+}
+
+.column2 {
+    padding: 2% 2% 2% 2%;
+}
+
+#aboutus .btn-outline-light {
+    background-color: #a18a58;
+    margin: 0;
+    margin-top: 2%;
+    border-radius: 2em;
+}
+#aboutus .btn-outline-light:hover{
+    background-color: black;
+    color: #fff;
+}
+#services
+{
+   padding: 0% 20%;
+   text-align: center;
+}
+.card-img-top
+{
+    width: 23%;
+    margin: 13%;
+}
+.card:hover{
+    color:#a18a58 ;
+}
+#services p
+{
+    padding-bottom: 3%;
+    padding-top: 1%;
+}
+
+
+
+
+#chooseus
+{
+   margin-top: 5%;
+    background-color: #f8f8f7 ;
+    padding:6% 20% 5% 20% ;
+}
+/*.chooseus-box
+{
+    background-color: #fff;
+}*/
+.fa-square-check{
+    color: #a58a4f;
+}
+#chooseus img{
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    top: -3%;
+    left: -2%;
+}
+.back-ground
+{
+ 
+    background-color: rgb(220, 217, 217);
+}
+.chooseus-text
+{
+    padding-left:3% ;
+    line-height: 2rem;
+}
+
+
+
+
+#work
+{
+    margin: 4% 10% 5% 20%;
+    text-align: center;
+}
+#work img{
+    width: 100%;
+}
+.work-img
+{
+    position: relative;
+    left: 15.5%;
+}
+#work .btn
+{
+    position: relative;
+    left: -10%;
+}
+
+
+
+
+#expert {
+    padding: 0% 20%;
+   
+}
+.expert-img-top
+{
+    height: 100%;
+}
+.expert-text{
+    padding-top: 12%;
+   
+}
+#expert .expert-text h2
+{
+    font-size: 3rem;
+}
+
+
+
+#contact
+{
+  background-color: #f8f8f7;
+    
+}
+.contact-img
+{
+    width: 70%;
+}
+.contact-text
+{
+    padding: 4% 12% 1% 20%; 
+    line-height: 1.5rem;
+}
+#contact .btn-lg{
+    margin: 5% 5% 5% 0;
+}
+.button-contact{
+    position: relative;
+    top: -17%;
+    right: -54%;
+}
+
+
+
+
+
+
+
+
+
+#foot
+{
+     margin: 4% 20% 5% 20%; 
+}
+#foot .col-lg-4
+{
+   padding-right:8% ;
+   padding-left: 1%;
+}
